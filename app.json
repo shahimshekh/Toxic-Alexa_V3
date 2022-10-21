@@ -25,12 +25,12 @@
 		"OWNER_NAME": {
 			"description": "Add the owner name here and if you want to use the default name then just leave it)",
 			"required": true,
-			"value": "TurboMods"
+			"value": "SANJU BHAI"
 		},
 		"OWNER_NUMBER": {
 			"description": "Add the owner number here",
 			"required": true,
-			"value": "916380260672"
+			"value": "+919728714060"
 		},
 		"AUTO_TYPING": {
 			"description": "Type true or false",
